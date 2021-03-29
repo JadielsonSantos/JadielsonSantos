@@ -7,7 +7,7 @@
   <ul>
     <li> :round_pushpin: Sou brasileiro.</li>
     <li> :computer:Programador Javascript</li>
-    <li> :lining: Um fã do Forro</li>
+    <li> :musical_note: Um fã do Forro</li>
   </ul>
 
 ### Find me here:

@@ -19,8 +19,8 @@
   <a href="https://www.instagram.com/jadielson.244/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/jadielson.244/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://linktr.ee/Jadielson_Santos" alt="Linktree">
+    <img src="https://img.icons8.com/color/452/linktree.png"/>
   </a>
 
 </br>

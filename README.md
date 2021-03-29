@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/Jadielson_Santos" alt="Linktree">
-    <img src="https://img.icons8.com/color/452/linktree.png" style="margin-left: 5px" height="30px" width="30px" />
+    <img src="https://img.icons8.com/color/452/linktree.png" height="30px" width="30px" />
   </a>
 
 </br>

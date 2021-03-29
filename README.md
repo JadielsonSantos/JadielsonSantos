@@ -1,4 +1,4 @@
-### Olá MUndo!, Bem vindo meu Github
+### Olá Mundo!, Bem vindo meu Github
 
 <p>Sou programador junior amante pelo JS</p>
 
@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
+  <a href="https://www.instagram.com/jadielson.244/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/jadielson.244/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>

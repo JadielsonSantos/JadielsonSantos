@@ -10,7 +10,7 @@
     <li> :musical_note: Um fã do Forro</li>
   </ul>
 
-### Find me here:
+### Me encontre aqui:
 
   <a href="https://www.linkedin.com/in/jadielson-santos-a973a920a/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 
 </br>
 
-### Languages and tools:
+### Linguagens é Ferramentas:
 
 </br>
 
